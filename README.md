@@ -14,3 +14,5 @@ view
 place <Column><Row>
 history
 ```
+
+As part of this, I also designed some input/output tests to verify the functionality of the game within the bounds of the unit. 
